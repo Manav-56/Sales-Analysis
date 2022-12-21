@@ -1,5 +1,5 @@
 # Sales-Analysis
-Data was analyzed in order to obtain answers to some questions that would assist in the growth of the business.
+Amazon sales figures for the year 2019 in the United States. Data was analyzed in order to obtain answers to some questions that would assist in the growth of the business.
 
 
 ## Buisness Related Questions 
