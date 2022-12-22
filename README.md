@@ -20,3 +20,9 @@ Amazon sales figures for the year 2019 in the United States. Data was analyzed i
 - Visualized the result for better understanding
 - Got answers for the Questions
 
+### Library Used:
+- pandas
+- matplotlib
+- itertools
+- collections
+- os
